@@ -28,7 +28,7 @@ echo ""
 
 echo "for the [ -a ] option we'll have to specify an URL, for example:"
 echo ""
-echo "./bruteforcedomains.sh -a URL [e.g. google.com]"
+echo "./subtakeover.sh -a URL [e.g. google.com]"
 echo ""
 
 while [ -n "$1" ]
