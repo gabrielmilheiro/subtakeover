@@ -37,11 +37,7 @@ while [ -n "$1" ]
      -a)for word in $(cat 11m_sub_wordlist.txt);do
         host -t cname $word.$2 | grep "alias for"
         done;;
-     -b) echo "I'm still doing it.";;
-     -c) echo "Keep calm.";;
-     -d) echo "Relax and use the first option for awhile";;
-     -e) echo "To be continued";;
-     -f) echo "Wait for more!";;
+     -*) echo "I'm still doing it.";;
   esac
  shift
 done
