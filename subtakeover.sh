@@ -3,9 +3,9 @@
 # You can use this tool to search for subdomains.
 # I created it to use as my own tool to find Subdomain Takeover
 # vulnerabilities.
-# You might are asking yourself "how can I do use it to do that?".
-# Let me explain. It will search for subdomains and will filter the
-# alias for rows. When we find something dealing with clouds, we can
+# You might are asking yourself "how can I use it to do that?".
+# Let me explain. It will search for subdomains and will it will filter the
+# alias row by row. When we find something dealing with clouds, we can
 # test the Subdomain Takeover attack.
 
 echo "---------------------------------------------------------------"
