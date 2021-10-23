@@ -1,7 +1,6 @@
 # subtakeover - subdomain takeover
-##
 ### created by dawn (me)
-##
+#
 ### - usage:
 
 1. `./subtakeover.sh [ -a ] [ example.com ]`  ->  the flag `-a` will bring the subdomains list (you have to edit the code and add the name into it) to find subdomains with some alias to any cloud or host (AWS, Azure, GCP, and others.);
