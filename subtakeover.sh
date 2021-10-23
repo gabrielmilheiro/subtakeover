@@ -3,7 +3,7 @@
 # You can use this tool to search for subdomains.
 # I created it to use as my own tool to find Subdomain Takeover
 # vulnerabilities.
-# You might are asking your self "how can I do use it to do that?".
+# You might are asking yourself "how can I do use it to do that?".
 # Let me explain. It will search for subdomains and will filter the
 # alias for rows. When we find something dealing with clouds, we can
 # test the Subdomain Takeover attack.
@@ -40,7 +40,7 @@ while [ -n "$1" ]
 	done;;
      -b) echo "I'm still doing it.";;
      -c) echo "Keep calm.";;
-     -d) echo "Relax and you the first option for awhile";;
+     -d) echo "Relax and use the first option for awhile";;
      -e) echo "To be continued";;
      -f) echo "Wait for more";;
   esac
