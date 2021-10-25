@@ -10,7 +10,7 @@
 
 - if you guys want to talk to me about the code, send me a direct message.
 - if you want to help implementing the code I suggest to clone it by SSH and make a pull request, I promess that I will gladly review all of them.
-- if you guys see any error in the code, please, correct it ASAP.
+- if you guys see any error in the code, please, get it correct.
 ##
 
 thank you!
