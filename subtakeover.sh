@@ -8,7 +8,7 @@
 # alias row by row. When we find something dealing with clouds, we can
 # test the Subdomain Takeover attack.
 
-echo "---------------------------------------------------------------"
+echo "_______________________________________________________________"
 echo  "____    ___        ___   _"
 echo "|  _ \  / \ \      / / \ | |"
 echo "| | | |/ _ \ \ /\ / /|  \| |"
