@@ -31,6 +31,10 @@ echo ""
 echo "./subtakeover.sh -a URL [e.g. google.com]"
 echo ""
 
+test
+
+test2
+
 while [ -n "$1" ]
  do
   case "$1" in
