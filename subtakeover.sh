@@ -8,7 +8,7 @@
 # alias row by row. When we find something dealing with clouds, we can
 # test the Subdomain Takeover attack.
 
-echo "_______________________________________________________________"
+echo ""
 echo  "____    ___        ___   _"
 echo "|  _ \  / \ \      / / \ | |"
 echo "| | | |/ _ \ \ /\ / /|  \| |"
@@ -21,7 +21,7 @@ echo "hello, happy hacking"
 echo ""
 
 echo "GitHub account: https://github.com/daniloalbuqrque"
-echo "_______________________________________________________________"
+echo ""
 echo ""
 echo ""
 echo "for the [ -a ] option we have to specify an URL, for example:"
@@ -35,7 +35,6 @@ while [ -n "$1" ]
      -a)for word in $(cat 11m_sub_wordlist.txt);do
         host -t cname $word.$2 | grep "alias for"
         done;;
-     -*) echo "I'm still doing it.";;
   esac
  shift
 done
