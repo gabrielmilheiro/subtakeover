@@ -1,5 +1,5 @@
 # subtakeover - subdomain takeover
-### created by dawn (me)
+### created by me
 #
 ### - usage:
 
